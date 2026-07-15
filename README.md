@@ -23,25 +23,25 @@ The project was developed using Power BI and covers the complete analytics workf
 
 ### Home Page
 
-![Home Page](Images1/Home_page.png)
+![Home Page](./images1/Home_page.png)
 
 ### Overall Dashboard
 
-![Overall Dashboard](Images1/overall.png)
+![Overall Dashboard](./images1/overall.png)
 
 ### Revenue Dashboard
 
-![Revenue Dashboard](Images1/revenue.png)
+![Revenue Dashboard](./images1/revenue.png)
 
 ### Cancellation Dashboard
 
-![Cancellation Dashboard](Images1/cancellation.png)
+![Cancellation Dashboard](./images1/cancellation.png)
 
 ---
 
 ## Data Model
 
-![Data Model](Images1/ERD1.png)
+![Data Model](./images1/ERD1.png)
 
 ---
 
